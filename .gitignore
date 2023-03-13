@@ -286,4 +286,6 @@ tags
 .history
 .ionide
 
+.DS_Store
+*/.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/database,vim,visualstudiocode,pycharm,intellij,jetbrains+all
