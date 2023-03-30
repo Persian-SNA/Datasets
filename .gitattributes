@@ -1,2 +1,4 @@
 */*.db filter=lfs diff=lfs merge=lfs -text
 Discussion/*.db filter=lfs diff=lfs merge=lfs -text
+ASD/ASD.db filter=lfs diff=lfs merge=lfs -text
+ADHD/ADHD.db filter=lfs diff=lfs merge=lfs -text
