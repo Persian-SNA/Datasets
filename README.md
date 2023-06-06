@@ -17,9 +17,7 @@ There is also another dependent entity which is merge form of all other threes w
 | Attribute   | Description                                      |
 |-------------|--------------------------------------------------|
 | UserID      | The user's ID on the website                     |
-| Username    | The username of the individual                   |
 | Description | If the user has set a description for themselves |
-| SignUpDate  | The date of the user signed up on the website    |
 | PostCount   | The number of posts the user has shared          |
 
 </div>
